@@ -1,0 +1,18 @@
+{
+  "name": "random-array-index",
+  "version": "1.0.0",
+  "description": "Get the random index of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "array", "random", "index"
+  ],
+  "author": "Adam Malantonio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/malantonio/random-array-index"
+  }
+}
